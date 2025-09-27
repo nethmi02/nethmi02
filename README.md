@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethmi Hapuarachchi</h1>
 <h3 align="center">A passionate Computer Science Undergraduate and Developer from Sri Lanka</h3>
 <div id="header" align="center">
-<img  width='200px' height="176px" align="center" alt="GIF" src="https://i.postimg.cc/5NNK4pV2/Remove-Background-Image.png" />
+<img  width='250px' height="176px" align="center" alt="GIF" src="Web Development Animation (1).gif" />
 </div></br></br>
 
 
